@@ -6,10 +6,10 @@
       icon: fas fa-blog
     - title: CV
       url: https://cv.tormakristof.eu
-      icon: fa-solid fa-file-user
+      icon: fas fa-file-user
     - title: HanyadikHetVan
       url: https://hanyadikhetvan.tormakristof.eu
-      icon: fa-regular fa-hundred-points
+      icon: far fa-hundred-points
 - group: Utilities
   items:
     - title: Git
@@ -17,8 +17,8 @@
       icon: fab fa-git-alt
     - title: Drone
       url: https://drone.kmlabz.com
-      icon: fa-solid fa-drone
+      icon: fas fa-drone
     - title: Nexus
       url: https://nexus.kmlabz.com
-      icon: fa-solid fa-brain-circuit
+      icon: fas fa-brain-circuit
 ...
