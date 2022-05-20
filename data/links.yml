@@ -1,0 +1,24 @@
+---
+- group: My Sites
+  items:
+    - title: Blog
+      url: https://blog.tormakristof.eu
+      icon: fab fa-blog
+    - title: CV
+      url: https://cv.tormakristof.eu
+      icon: fab fa-file-user
+    - title: HanyadikHetVan
+      url: https://hanyadikhetvan.tormakristof.eu
+      icon: fab fa-hundred-points
+- group: Utilities
+  items:
+    - title: Git
+      url: https://git.kmlabz.com
+      icon: fab fa-git-alt
+    - title: Drone
+      url: https://drone.kmlabz.com
+      icon: fab fa-drone
+    - title: Nexus
+      url: https://nexus.kmlabz.com
+      icon: fab fa-brain-circuit
+...
