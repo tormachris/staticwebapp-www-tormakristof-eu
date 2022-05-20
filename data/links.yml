@@ -3,13 +3,13 @@
   items:
     - title: Blog
       url: https://blog.tormakristof.eu
-      icon: fab fa-blog
+      icon: fas fa-blog
     - title: CV
       url: https://cv.tormakristof.eu
-      icon: fab fa-file-user
+      icon: fa-solid fa-file-user
     - title: HanyadikHetVan
       url: https://hanyadikhetvan.tormakristof.eu
-      icon: fab fa-hundred-points
+      icon: fa-regular fa-hundred-points
 - group: Utilities
   items:
     - title: Git
@@ -17,8 +17,8 @@
       icon: fab fa-git-alt
     - title: Drone
       url: https://drone.kmlabz.com
-      icon: fab fa-drone
+      icon: fa-solid fa-drone
     - title: Nexus
       url: https://nexus.kmlabz.com
-      icon: fab fa-brain-circuit
+      icon: fa-solid fa-brain-circuit
 ...
