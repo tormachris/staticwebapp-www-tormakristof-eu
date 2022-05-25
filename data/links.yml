@@ -10,6 +10,9 @@
     - title: HanyadikHetVan
       url: https://hhv.tormakristof.eu
       icon: fas fa-cloud
+    - title: Status page
+      url: https://status.tormakristof.eu
+      icon: fas fa-chart-pie
 - group: Utilities
   items:
     - title: Git
