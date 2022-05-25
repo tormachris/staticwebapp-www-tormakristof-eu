@@ -13,6 +13,9 @@
     - title: Status page
       url: https://status.tormakristof.eu
       icon: fas fa-chart-pie
+    - title: Neko
+      url: https://neko.tormakristof.eu
+      icon: fas fa-cat
 - group: Utilities
   items:
     - title: Git
@@ -24,7 +27,10 @@
     - title: Nexus
       url: https://nexus.kmlabz.com
       icon: fas fa-file-archive
-    - title: Matrix Chat
+    - title: Matrix
       url: https://chat.tormakristof.eu
       icon: fas fa-lightbulb
+    - title: Nextcloud
+      url: https://nextcloud.tormakristof.eu
+      icon: fas fa-file
 ...
