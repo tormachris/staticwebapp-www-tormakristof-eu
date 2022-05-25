@@ -24,4 +24,7 @@
     - title: Nexus
       url: https://nexus.kmlabz.com
       icon: fas fa-file-archive
+    - title: Matrix Chat
+      url: https://matrix.tormakristof.eu
+      icon: fas fa-lightbulb
 ...
