@@ -16,6 +16,9 @@
     - title: Neko
       url: https://neko.tormakristof.eu
       icon: fas fa-cat
+    - title: KMLabz
+      url: https://kmlabz.com
+      icon: fas fa-laptop
 - group: Utilities
   items:
     - title: Git
@@ -33,4 +36,7 @@
     - title: Nextcloud
       url: https://nextcloud.tormakristof.eu
       icon: fas fa-file
+    - title: Password Change Tool
+      url: https://fs.tormakristof.eu/adfs/portal/updatepassword
+      icon: fas fa-lock
 ...
